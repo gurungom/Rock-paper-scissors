@@ -169,6 +169,8 @@ body {
     justify-content: flex-end;
     margin-top: 20px;
     margin-right: 30px;
+    position: absolute;
+    bottom: 10px;
 }
 
 .rulesBtn {
